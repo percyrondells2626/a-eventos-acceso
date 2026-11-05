@@ -1,0 +1,26 @@
+# Moderadores autorizados para usar A-Eventos.asi
+# Un nick por linea. El tag de clan, las mayusculas y espacio/guion bajo no importan.
+# Las lineas que empiezan con # se ignoran.
+Jeral
+Lia_Rondell
+LAMINEYAMAL
+Diego_Mayson
+angelitoskrmstdz
+MASCHERANO
+Luigi_Moretti
+Spirt
+Magoya_
+TizianoBarzini
+Ivanov
+Lisandro_Brownss
+Limoneishon
+Fokuss
+Kevin_Arguedas
+Reiner_Weasley
+Nicolas_Money
+Percy_Rondell
+HARVEYN_
+Jayden_Guzman
+Scarlett_Pearce
+Solo
+Mod_Global
